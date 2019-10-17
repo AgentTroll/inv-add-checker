@@ -1,0 +1,8 @@
+main: com.gmail.woodyc40.invaddchecker.InvAddChecker
+name: InvAddChecker
+version: ${project.version}
+
+commands:
+  invaddchk:
+    description: Adds whatever you have in your inventory to the chest you are looking at
+    usage: /invaddchk
