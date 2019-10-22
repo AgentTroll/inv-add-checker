@@ -1,6 +1,7 @@
 main: com.gmail.woodyc40.invaddchecker.InvAddChecker
 name: InvAddChecker
 version: ${project.version}
+api-version: "1.14"
 
 commands:
   invaddchk:
