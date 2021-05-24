@@ -146,7 +146,7 @@ private static Map<ItemStack, Integer> addItemTo(Inventory inv, Collection<ItemS
 # Building
 
 ``` shell
-git clone https://github.com/AgentTroll/inv-add-checker.git
+git clone https://github.com/caojohnny/inv-add-checker.git
 cd inv-add-checker
 mvn clean install
 ```
